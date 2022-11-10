@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_airbnb/constants.dart';
 import 'package:flutter_airbnb/size.dart';
 
 class HomeBodyPopularItem extends StatelessWidget {
